@@ -25,3 +25,6 @@ go.work
 freecodecamp-11-projects/go-web-server/go-web-server
 freecodecamp-11-projects/go-movies-crud/go-movies-crud
 freecodecamp-11-projects/go-bookstore/cmd/main/main
+freecodecamp-11-projects/go-slack-age-bot/go-slack-age-bot
+freecodecamp-11-projects/go-slack-file-bot/go-slack-file-bot
+
