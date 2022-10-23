@@ -24,3 +24,4 @@ go.work
 # Binaries
 freecodecamp-11-projects/go-web-server/go-web-server
 freecodecamp-11-projects/go-movies-crud/go-movies-crud
+freecodecamp-11-projects/go-bookstore/cmd/main/main
